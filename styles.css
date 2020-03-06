@@ -1,0 +1,208 @@
+.map{
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.but1{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lie{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lie2{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lie3{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lie4{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.lie5{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+}
+
+.lie6{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.but2{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.but3{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.success1{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.guard{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.guardtalks{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.guard2{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.but4{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.guardtalks2{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.battle{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.guard3{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.command{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.katana{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mercy{
+    display: none;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    color: orange;
+    border:solid orange;
+    
+}
+
+.kill{
+    display: none;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.death{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mercyyy{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mercyy{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+}
+
+.successkill{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.successmercy{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.treasure{
+    display: none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
